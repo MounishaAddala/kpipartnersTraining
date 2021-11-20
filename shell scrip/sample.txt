@@ -1,0 +1,28 @@
+# kpipartnersTraining
+monisha@KPI-MONISHATrainee:~$ vi kpiteam.sh
+monisha@KPI-MONISHATrainee:~$ sh kpiteam.sh
+kpiteam.sh: 4: NAME: is read only
+monisha@KPI-MONISHATrainee:~$ vi token.sh
+monisha@KPI-MONISHATrainee:~$ sh token.s
+sh: 0: Can't open token.s
+monisha@KPI-MONISHATrainee:~$ sh token.sh
+monisha@KPI-MONISHATrainee:~$ vi token.sh
+monisha@KPI-MONISHATrainee:~$ sh token.sh
+monisha@KPI-MONISHATrainee:~$ vi token.sh
+monisha@KPI-MONISHATrainee:~$ $./example.sh
+-bash: $./example.sh: No such file or directory
+monisha@KPI-MONISHATrainee:~$ vi exp.sh
+monisha@KPI-MONISHATrainee:~$ sh exp.sh
+monisha@KPI-MONISHATrainee:~$ vi exp.sh
+monisha@KPI-MONISHATrainee:~$ sh exp.sh
+total value : expr 2 + 2
+monisha@KPI-MONISHATrainee:~$ vi expr.sh
+monisha@KPI-MONISHATrainee:~$ sh expr.sh
+expr.sh: 4: While: not found
+expr.sh: 5: Syntax error: "do" unexpected
+monisha@KPI-MONISHATrainee:~$ vi expr.sh
+monisha@KPI-MONISHATrainee:~$ sh expr.sh
+expr.sh: 4: While: not found
+expr.sh: 5: Syntax error: "do" unexpected
+monisha@KPI-MONISHATrainee:~$ vi expr.sh
+monisha@KPI-MONISHATrainee:~$
