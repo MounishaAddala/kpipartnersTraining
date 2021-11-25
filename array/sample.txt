@@ -1,7 +1,0 @@
-# kpipartnersTraining
-#!/bin.sh
-arr=(pink black red)
-for i in ${arr[@]}
-do
-        echo $i
-done
