@@ -1,6 +1,0 @@
-# kpipartnersTraining
-#!/bin/sh
-func () {
-echo "this is my first function program $1 $2"
-}
-func kpi company
