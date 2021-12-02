@@ -1,0 +1,2 @@
+column "Employee Name" format A30
+SQL> /
